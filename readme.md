@@ -32,18 +32,23 @@ Installation / 安裝
 
 	1.	Clone the repository / 複製專案庫:
 
-git clone https://github.com/yourusername/pdf-crawler.git
+git clone https://github.com/tbdavid2019/pdf-crawler.git
 cd pdf-crawler
 
 
 	2.	Install dependencies / 安裝依賴套件:
 ```
-pip install -r requirements.txt
+pip install beautifulsoup4 requests
+
+
 ```
 Alternatively, you can manually install the required packages:
 或者您可以手動安裝所需套件：
 ```
-pip install requests beautifulsoup4
+
+pip install beautifulsoup4 requests
+
+  
 
 ```
 
