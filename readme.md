@@ -37,13 +37,8 @@ cd pdf-crawler
 
 
 2.Install dependencies / 安裝依賴套件:
-```
-pip install beautifulsoup4 requests
 
-```
-
-Alternatively, you can manually install the required packages:
-或者您可以手動安裝所需套件：
+ you can manually install the required packages:
 
 ```
 pip install beautifulsoup4 requests tqdm
